@@ -1,0 +1,5 @@
+Let numero;
+
+numero = 18
+
+alert(numero)
